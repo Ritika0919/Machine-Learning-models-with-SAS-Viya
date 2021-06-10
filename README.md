@@ -1,1 +1,2 @@
 # Machine-Learning-models-with-SAS-Viya
+For this project, I analysed the BigOrganics database on preloaded on the SAS Viya environment. First, I found the correlations between each of the variables. Then, I plotted how the purchase of organic products is influenced by Gender, geography, affluence grade and loyalty status. Lastly, I experimented with machine learning models like logistic regression, gradient boosting, forest, decision tree and neural networks to understand which model represented the data in the best possible manner.
